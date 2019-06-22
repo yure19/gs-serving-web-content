@@ -1,1 +1,1 @@
-# gs-serving-web-content
+# spring mvc + spring boot
